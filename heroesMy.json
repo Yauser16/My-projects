@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "id": "f2f26988-eeef-4d3c-97f0-38fd0509f495",
+      "name": "Молодой герой",
+      "description": "Пока ничего не умеющий",
+      "element": "fire"
+    },
+    {
+      "id": "b0e82871-8ab7-4e0f-91ed-34265b8474a9",
+      "name": "Морской герой",
+      "description": "Укрощающий морскую стихию",
+      "element": "water"
+    },
+    {
+      "id": "89dc9d79-3559-4b7b-9f6d-c527c412e94f",
+      "name": "Старый герой",
+      "description": "zxvz",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}

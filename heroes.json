@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": "4030a048-4575-4e80-8eff-4b0ccf4c14b5",
+      "name": "Молодой герой",
+      "description": "dfws",
+      "element": "water"
+    },
+    {
+      "id": "fb79659f-b628-4910-a408-e9a93c0f56c2",
+      "name": "Старый герой",
+      "description": "dxfgf",
+      "element": "earth"
+    },
+    {
+      "id": "b554b469-ef7f-440d-a2c4-0f0712d08248",
+      "name": "Молодой герой",
+      "description": "ASDA",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": 5,
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": 6,
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": 7,
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": 8,
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": 9,
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
